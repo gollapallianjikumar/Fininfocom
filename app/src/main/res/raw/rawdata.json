@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Gollapalli Anjikumar",
+    "age": 25,
+    "city": "Hyderabad"
+  },
+  {
+    "name": "Naveen",
+    "age": 27,
+    "city": "Nagapur"
+  },
+  {
+    "name": "Kiran",
+    "age": 23,
+    "city": "Nalagonda"
+  },
+  {
+    "name": "Chandu Shyam",
+    "age": 21,
+    "city": "Kakinada"
+  },
+  {
+    "name": "Prudvi",
+    "age": 22,
+    "city": "Ongloe"
+  },
+  {
+    "name": "Shashi",
+    "age": 22,
+    "city": "Hyderabad"
+  },
+  {
+    "name": "Rajesh",
+    "age": 26,
+    "city": "Rajamendry"
+  },
+  {
+    "name": "Ganesh",
+    "age": 24,
+    "city": "Vizag"
+  },
+  {
+    "name": "Pooja",
+    "age": 20,
+    "city": "Nagapur"
+  },
+  {
+    "name": "Pradeep",
+    "age": 23,
+    "city": "karimnagar"
+  }
+]

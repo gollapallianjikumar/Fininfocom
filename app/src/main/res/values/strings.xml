@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MainActivity</string>0
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="sort_by_age">Sort by Age</string>
+    <string name="sort_by_city">Sort by City</string>
+    <string name="action_signout">Logout</string>
+</resources>
